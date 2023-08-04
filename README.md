@@ -1,4 +1,4 @@
-SecuKeyGuard - Desktop Password Manager
+**SecuKeyGuard** - Desktop Password Manager
 License
 
 Description
@@ -40,13 +40,11 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and ensure all tests pass.
 Submit a pull request detailing your changes and improvements.
-License
-This project is not licensed under the MIT License. You can find the details in the LICENSE file.
 
 Contact
 If you have any questions or suggestions about SecuKeyGuard, feel free to contact us:
 
-Email: your-email@example.com
-GitHub: your-username
-Twitter: @your-twitter-handle
+Email: devkiraa@gmail.com
+GitHub: devkiraa
+Twitter: @devkiraa
 Thank you for using SecuKeyGuard, and we hope it helps you manage your passwords securely!
